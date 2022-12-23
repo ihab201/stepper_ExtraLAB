@@ -6,7 +6,11 @@ Designing a digital system to drive the **55SI-25 DAWC stepper motor** with eigh
 
 ![imagename](DriverMotor.png)
 
-**The main file is a zip file "Stepper_ExtraLAB.zip".**
+The FSM diagram used as stepper motor driver is: 
+
+![FSM](FSM.png)
+
+> The main file is a zip file "Stepper_ExtraLAB.zip" which contains all the modules used.
 #### **THE WORK:**
 - **the 7244 IC** used in order to protect digital components and to improve noise rejection.
 - **ULN2004A IC** used for interfacing between the circuit board and the Stepper Motor.
