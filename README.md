@@ -21,6 +21,6 @@ the system is composed of 4 main blocks:
 
 3. combining this symbol files in the main file "stepper",implementing the global design on The Block-Diagram-File (BDF) and performing the simulation, we obtain the following diagram.
 
-![imagename](diagram.png)
+![imagename](diagram.PNG)
 
 4. assigning ports, and downlaoding the model into the DE2 board and testing its functionalities, and everything worked perfectly.
