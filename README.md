@@ -29,4 +29,4 @@ the system is composed of 4 main blocks:
 ![imagename](diagram.PNG)
 
 4. assigning ports, and downlaoding the model into the DE2 board and testing its functionalities, and everything worked perfectly.
-> The DE2 board used conatains the Cyclone II FPGA EP2C35F672C6.
+> The DE2 board used contains the Cyclone II FPGA EP2C35F672C6.
